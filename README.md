@@ -87,8 +87,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### Contact
 
-For any inquiries or support, please contact [your-email@example.com].
+For any inquiries or support, please contact thilakshi.samaraweera2698@gmail.com.
 
----
 
-Thank you for using the Weather App with Django tutorial! We hope this guide helps you create a powerful weather application using Django. Happy coding!
